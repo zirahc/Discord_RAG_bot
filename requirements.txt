@@ -1,0 +1,10 @@
+python-dotenv
+discord.py
+requests
+pinecone
+langchain
+langchain-pinecone==0.2.0
+langchain-openai
+langgraph
+langchain-community
+langgraph-checkpoint-sqlite
